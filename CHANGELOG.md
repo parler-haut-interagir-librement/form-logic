@@ -4,9 +4,16 @@ All notable changes to `phil/form-logic` will be documented in this file.
 
 Updates should follow the [Keep a CHANGELOG](https://keepachangelog.com/) principles.
 
-## 0.1.1-alpha - 2026-11-18
+## 0.1.2-alpha - 2026-11-20
 
-The next version is 0.1.1-alpha.
+The archive Composer installs holds the tests again.
+
+### Changed
+
+- The tests, the test cases of JsonLogic with their MIT notice among them, and the development files are in the
+  archive Composer installs, as in the other packages: `.gitattributes` is gone.
+
+## 0.1.1-alpha - 2026-11-18
 
 ### Changed
 
